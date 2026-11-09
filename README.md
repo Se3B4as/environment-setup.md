@@ -1,3 +1,32 @@
+## 👨‍💻 About Me
+
+Hi! I'm **Mikael Rodrigues Pereira**, a Cybersecurity graduate with a strong interest in Information Security, Security Operations (SOC), Blue Team, and Incident Response.
+
+I hold a degree in Cybersecurity from Anhanguera and am currently pursuing a postgraduate specialization in Cyber Defense, SOC, and Incident Response at UniCesumar.
+
+I'm also preparing for the **CompTIA Security+ certification**, strengthening my knowledge in:
+
+- Information Security Fundamentals
+- Risk Management
+- Threats and Vulnerability Management
+- Security Architecture and Operations
+- Security Monitoring
+- Incident Response
+- Security Controls
+
+I'm passionate about continuous learning and developing practical cybersecurity skills through hands-on labs, technical experiments, and real-world security scenarios.
+
+This Home Lab is part of my journey to strengthen my technical knowledge, develop problem-solving skills, and build a career in Cybersecurity.
+
+**Areas of Interest:**
+- Security Operations Center (SOC)
+- Blue Team
+- Threat Detection and Analysis
+- Incident Response
+- Network Security
+- Information Security
+
+
 # environment-setup.md
 
 Cybersecurity Home Lab!!
